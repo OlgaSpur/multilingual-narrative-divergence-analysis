@@ -1,0 +1,244 @@
+﻿entity,dominant_language,least_present_language,divergence_score,English,Russian,Spanish,Ukrainian
+Ukraine,Ukrainian,Russian,5,3,0,2,5
+Volodymyr Zelensky,English,Ukrainian,4,5,2,2,1
+Києво-Печерська,Ukrainian,English,4,0,0,0,4
+France,English,Russian,3,3,0,2,0
+UNESCO,English,Russian,3,3,0,2,3
+Dormition Cathedral,English,Russian,3,3,0,3,2
+Kharkiv,English,Russian,3,3,0,2,0
+Trump,English,Russian,3,3,0,0,0
+Donald Trump,English,Russian,3,3,0,1,0
+Києво-Печерської,Ukrainian,English,3,0,0,0,3
+Pechersk Lavra de Kyiv,Spanish,English,2,0,0,2,0
+Patriot,English,Russian,2,2,0,0,0
+Andrii Sybiha,English,Russian,2,2,0,1,0
+Moscow,English,Russian,2,2,0,2,0
+Kyiv-Pechersk Lavra,English,Russian,2,2,0,0,0
+Vladimir Putin,English,Russian,2,2,0,1,0
+Tula,English,Russian,2,2,0,0,0
+Orthodox Church of Ukraine,English,Russian,2,2,0,0,0
+Крайній,Ukrainian,English,2,0,0,0,2
+Киево-Печерской лавре,Russian,English,2,0,2,0,0
+Киево-Печерской лавры,Russian,English,2,0,2,0,0
+Tymur Tkachenko,Spanish,Russian,2,1,0,2,0
+Минобороны России,Russian,English,2,0,2,0,0
+Лавры,Russian,English,2,0,2,0,0
+Мария Захарова,Russian,English,2,0,2,0,0
+Києво-Печерській,Ukrainian,English,2,0,0,0,2
+Tkachenko,Spanish,English,2,0,0,2,0
+Cultura Mystetskyi Arsenal,Spanish,English,1,0,0,1,0
+Cuevas,Spanish,English,1,0,0,1,0
+Dnipropetrovsk,English,Russian,1,1,0,0,0
+Crimea,Spanish,English,1,0,0,1,0
+Farouk Chothia,English,Russian,1,1,0,0,0
+Exteriores de Ucrania,Spanish,English,1,0,0,1,0
+Group of Seven,English,Russian,1,1,0,0,0
+Complejo del Museo Nacional de Arte,Spanish,English,1,0,0,1,0
+Dnipró,Spanish,English,1,0,0,1,0
+Donbas city,English,Russian,1,1,0,0,0
+11th Century Dormition Cathedral,English,Russian,1,1,0,0,0
+Defense Ministry,English,Russian,1,1,0,0,0
+Drone,English,Russian,1,1,0,0,0
+Emmanuel Macron,English,Russian,1,1,0,0,0
+Epifanio,Spanish,English,1,0,0,1,0
+Europa,Spanish,English,1,0,0,1,0
+European Commission,English,Russian,1,1,0,0,0
+European Pravda,Ukrainian,English,1,0,0,0,1
+Dormición de Kiev,Spanish,English,1,0,0,1,0
+Dormition Cathedral of the Kyiv Pechersk Lavra –,English,Russian,1,1,0,0,0
+Komsomolskaya Pravda,Russian,English,1,0,1,0,0
+Klitschko,Spanish,English,1,0,0,1,0
+Kaja Kallas,English,Russian,1,1,0,0,0
+Joel Guinto,English,Russian,1,1,0,0,0
+Italmas,Spanish,English,1,0,0,1,0
+Jean-Noël Barrot,English,Russian,1,1,0,1,0
+Iskander-M,Spanish,English,1,0,0,1,0
+Iskander-K,Spanish,English,1,0,0,1,0
+Gvardíiske,Spanish,English,1,0,0,1,0
+Iran,English,Russian,1,1,0,0,0
+Haremos,Spanish,English,1,0,0,1,0
+Handout,English,Russian,1,1,0,0,0
+Gerbera,Spanish,English,1,0,0,1,0
+Kyiv Pechersk Lavra,English,Russian,1,1,0,0,0
+Kyiv,English,Ukrainian,1,3,3,3,2
+Kremlin,English,Russian,1,1,0,0,0
+Mystetskyi Arsenal,Spanish,English,1,0,0,1,0
+Museum Complex,English,Russian,1,1,0,0,0
+Monasterio de Lavra de Pechersk,Spanish,English,1,0,0,1,0
+Mílerovo,Spanish,English,1,0,0,1,0
+Notre-Dame,Spanish,English,1,0,0,1,0
+NATO,English,Russian,1,1,0,0,0
+National Cultural,English,Russian,1,1,0,0,0
+Notre Dame,English,Russian,1,1,0,0,0
+Metropolitan Epiphanius,English,Russian,1,1,0,0,0
+Metropolitan Epiphanius of Kyiv,English,Russian,1,1,0,0,0
+Ministro de Cultura,Spanish,English,1,0,0,1,0
+Ministerio de Defensa,Spanish,English,1,0,0,1,0
+Ministry of Culture,English,Russian,1,1,0,0,0
+Lavra,Spanish,English,1,0,0,1,0
+Lean-культури,Ukrainian,English,1,0,0,0,1
+Kursk,Spanish,English,1,0,0,1,0
+Pechersk Lavra,English,Russian,1,1,0,1,0
+Pechersk,Spanish,English,1,0,0,1,0
+Patrimonio de la Humanidad,Spanish,English,1,0,0,1,0
+Patrimonio de la Humanidad de la UNESCO,Spanish,English,1,0,0,1,0
+Parodia,Spanish,English,1,0,0,1,0
+Nova Poshta,Spanish,English,1,0,0,1,0
+Oleksandr Dovzhenko,English,Russian,1,1,0,0,0
+Oriol,Spanish,English,1,0,0,1,0
+Russia,English,Russian,1,3,2,3,3
+Rozetka,Ukrainian,English,1,0,0,0,1
+Reino Unido,Spanish,English,1,0,0,1,0
+RIA Novosti,Russian,English,1,0,1,0,0
+Perchersk Lavra,English,Russian,1,1,0,0,0
+Perchersk-Lavra,English,Russian,1,1,0,0,0
+Poland,English,Russian,1,1,0,0,0
+Primorsko-Ajtarsk,Spanish,English,1,0,0,1,0
+Shahed,Spanish,English,1,0,0,1,0
+State Emergency Service of Ukraine,English,Russian,1,1,0,0,0
+Sybiha,Spanish,English,1,0,0,1,0
+Timur Tkachenko,Spanish,English,1,0,0,1,0
+Ukrainska Pravda,Ukrainian,English,1,0,0,0,1
+United Nations’ Human Rights Monitoring Mission,English,Russian,1,1,0,0,0
+UN Security Council,English,Russian,1,1,0,0,0
+Administración Militar de la Ciudad de Kyiv,Spanish,English,1,0,0,1,0
+Briansk,Spanish,English,1,0,0,1,0
+CNN,English,Russian,1,1,0,0,0
+Catedral de la Dormición del Monasterio de las Cuevas de Kiev,Spanish,English,1,0,0,1,0
+Chauda,Spanish,English,1,0,0,1,0
+Argumenty I Fakty,Russian,English,1,0,1,0,0
+Art Arsenal,English,Russian,1,1,0,0,0
+Bakhmut,English,Russian,1,1,0,0,0
+Banderol,Spanish,English,1,0,0,1,0
+Yulia Svyrydenko,English,Russian,1,1,0,0,0
+White House,English,Russian,1,1,0,0,0
+Vólogda,Spanish,English,1,0,0,1,0
+Vitaliy Klitschko,English,Russian,1,1,0,0,0
+Vitali Klitchkó,Spanish,English,1,0,0,1,0
+Vitali Klitschko,English,Russian,1,1,0,1,0
+Ursula von der Leyen,English,Russian,1,1,0,0,0
+Vanderlande,Ukrainian,English,1,0,0,0,1
+Ukrainian Culture Ministry,English,Russian,1,1,0,0,0
+Академікс,Ukrainian,English,1,0,0,0,1
+catedral de Santiago de Compostela,Spanish,English,1,0,0,1,0
+crucero,Spanish,English,1,0,0,1,0
+península ucraniana de,Spanish,English,1,0,0,1,0
+Александром Ходаковским,Russian,English,1,0,1,0,0
+Zircon,Spanish,English,1,0,0,1,0
+air defence systems,English,Russian,1,1,0,0,0
+Веры,Russian,English,1,0,1,0,0
+Владимира Зеленского,Russian,English,1,0,1,0,0
+Военкор Стешин,Russian,English,1,0,1,0,0
+Вооруженных сил России,Russian,English,1,0,1,0,0
+Всемирного наследия ЮНЕСКО,Russian,English,1,0,1,0,0
+Всесвітньої,Ukrainian,English,1,0,0,0,1
+Гаазької,Ukrainian,English,1,0,0,0,1
+Георгий Тихий,Russian,English,1,0,1,0,0
+ДСНС,Ukrainian,English,1,0,0,0,1
+Державній,Ukrainian,English,1,0,0,0,1
+Антоніу Кошта,Ukrainian,English,1,0,0,0,1
+Антонія,Ukrainian,English,1,0,0,0,1
+Аргументы,Russian,English,1,0,1,0,0
+Évian,English,Russian,1,1,0,0,0
+Європейської ради,Ukrainian,English,1,0,0,0,1
+Авраамій,Ukrainian,English,1,0,0,0,1
+Европы,Russian,English,1,0,1,0,0
+Европа,Russian,English,1,0,1,0,0
+Другої,Ukrainian,English,1,0,0,0,1
+Донбассе,Russian,English,1,0,1,0,0
+Добра,Russian,English,1,0,1,0,0
+Дніпрі,Ukrainian,English,1,0,0,0,1
+Запада,Russian,English,1,0,1,0,0
+"ЖК ""Комфорт Таун",Ukrainian,English,1,0,0,0,1
+Зосима,Russian,English,1,0,1,0,0
+Зосиме,Russian,English,1,0,1,0,0
+Иран,Russian,English,1,0,1,0,0
+Жан-Ноэль Барро,Russian,English,1,0,1,0,0
+Захарова,Russian,English,1,0,1,0,0
+Захаровой,Russian,English,1,0,1,0,0
+Зеленского,Russian,English,1,0,1,0,0
+Западе,Russian,English,1,0,1,0,0
+Киево-Печерской Лавры,Russian,English,1,0,1,0,0
+Киево-Печерской,Russian,English,1,0,1,0,0
+Киево-Печерская Лавра,Russian,English,1,0,1,0,0
+Киева,Russian,English,1,0,1,0,0
+Зосимы,Russian,English,1,0,1,0,0
+Киево-Печорской Лавры,Russian,English,1,0,1,0,0
+Киевскому,Russian,English,1,0,1,0,0
+Киево-Печорской Лавре,Russian,English,1,0,1,0,0
+Києво-Печерську,Ukrainian,English,1,0,0,0,1
+Києва,Ukrainian,English,1,0,0,0,1
+Комсомольская Правда,Russian,English,1,0,1,0,0
+Київської,Ukrainian,English,1,0,0,0,1
+Костянтин Крайній,Ukrainian,English,1,0,0,0,1
+Брюсселе,Russian,English,1,0,1,0,0
+Будинок,Ukrainian,English,1,0,0,0,1
+ВСУ,Russian,English,1,0,1,0,0
+Лавру,Russian,English,1,0,1,0,0
+Кущника,Ukrainian,English,1,0,0,0,1
+Краткий пересказ,Russian,English,1,0,1,0,0
+МИД РФ,Russian,English,1,0,1,0,0
+МИД Украины,Russian,English,1,0,1,0,0
+МИД Франции,Russian,English,1,0,1,0,0
+МОСКВА,Russian,English,1,0,1,0,0
+Лаврі,Ukrainian,English,1,0,0,0,1
+Макрон,Russian,English,1,0,1,0,0
+Министерства иностранных дел Украины,Russian,English,1,0,1,0,0
+Мистецькому арсеналі,Ukrainian,English,1,0,0,0,1
+Національна,Ukrainian,English,1,0,0,0,1
+Національного заповідника,Ukrainian,English,1,0,0,0,1
+Нотр-Даму,Ukrainian,English,1,0,0,0,1
+Олександра Довженка,Ukrainian,English,1,0,0,0,1
+Олесі Островської-Лютої,Ukrainian,English,1,0,0,0,1
+Оптину,Russian,English,1,0,1,0,0
+Освітнього холдингу,Ukrainian,English,1,0,0,0,1
+Палац,Ukrainian,English,1,0,0,0,1
+Париж,Russian,English,1,0,1,0,0
+Православия,Russian,English,1,0,1,0,0
+РИА Новости,Russian,English,1,0,1,0,0
+"РИА ИИ
+Заявление Министерства иностранных дел Украины",Russian,English,1,0,1,0,0
+Радіо Культура,Ukrainian,English,1,0,0,0,1
+Раніше,Ukrainian,English,1,0,0,0,1
+России,Russian,English,1,0,1,0,0
+Руси,Russian,English,1,0,1,0,0
+Руси - «Заповедник»,Russian,English,1,0,1,0,0
+СБУ,Russian,English,1,0,1,0,1
+США,Russian,English,1,0,1,0,0
+Свято-Успенскую Николо-Васильевскую обитель,Russian,English,1,0,1,0,0
+Севастополя,Russian,English,1,0,1,0,0
+Слово,Russian,English,1,0,1,0,0
+Сокур,Russian,English,1,0,1,0,0
+Софії Київської,Ukrainian,English,1,0,0,0,1
+Старого Арсеналу,Ukrainian,English,1,0,0,0,1
+Суми,Ukrainian,English,1,0,0,0,1
+Схиархимандриту Зосима,Russian,English,1,0,1,0,0
+Також,Ukrainian,English,1,0,0,0,1
+Тафійчук,Ukrainian,English,1,0,0,0,1
+Тетяна Шаповалова,Ukrainian,English,1,0,0,0,1
+Тетяни Бережної,Ukrainian,English,1,0,0,0,1
+Тимур Ткаченко,Ukrainian,English,1,0,0,0,1
+Угледар,Russian,English,1,0,1,0,0
+Удар,Russian,English,1,0,1,0,0
+Украинской православной церкви,Russian,English,1,0,1,0,0
+Українська Правда,Ukrainian,English,1,0,0,0,1
+Успенского собора,Russian,English,1,0,1,0,0
+Успенського собору,Ukrainian,English,1,0,0,0,1
+Успенському собору,Ukrainian,English,1,0,0,0,1
+"Успенському собору
+URL:",Ukrainian,English,1,0,0,0,1
+"Успенському собору
+Російський удар",Ukrainian,English,1,0,0,0,1
+Факты,Russian,English,1,0,1,0,0
+Феодосія,Ukrainian,English,1,0,0,0,1
+Феодосія Печерських,Ukrainian,English,1,0,0,0,1
+Франции,Russian,English,1,0,1,0,0
+Франції Жан-Ноель Барро,Ukrainian,English,1,0,0,0,1
+"Х.
+Кошта",Ukrainian,English,1,0,0,0,1
+Шахед,Ukrainian,English,1,0,0,0,1
+Эмманюэль Макрон,Russian,English,1,0,1,0,0
+Юлія Свириденко,Ukrainian,English,1,0,0,0,1
+богослужбові предмети,Ukrainian,English,1,0,0,0,1
+масовану комбіновану атаку на Київ,Ukrainian,English,1,0,0,0,1
+які від,Ukrainian,English,1,0,0,0,1

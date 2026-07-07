@@ -1,0 +1,295 @@
+﻿normalised_entity,language,entity_type,mentions
+Volodymyr Zelensky,English,people,5
+Ukraine,Ukrainian,locations,4
+Kyiv,Russian,locations,3
+Russia,Spanish,locations,3
+France,English,locations,3
+Kyiv,Spanish,locations,3
+UNESCO,English,organisations,3
+Donald Trump,English,people,3
+Ukraine,English,locations,3
+Russia,English,locations,3
+Kharkiv,English,locations,3
+Dormition Cathedral,English,locations,3
+Kyiv,English,locations,3
+UNESCO,Ukrainian,organisations,3
+Orthodox Church of Ukraine,English,organisations,2
+Francia,Spanish,locations,2
+Russia,Ukrainian,people,2
+Patriot,English,people,2
+Украине,Russian,locations,2
+Volodymyr Zelensky,Spanish,people,2
+Russia,Russian,locations,2
+UNESCO,Spanish,organisations,2
+Moscow,English,locations,2
+Moscow,Spanish,locations,2
+Tkachenko,Spanish,people,2
+Vladimir Putin,English,people,2
+Dormition Cathedral,Spanish,locations,2
+Dormition Cathedral,Ukrainian,locations,2
+Tymur Tkachenko,Spanish,people,2
+Kharkiv,Spanish,people,2
+Trump,English,people,2
+Tula,English,locations,2
+Kyiv,Ukrainian,locations,2
+Ukraine,Spanish,locations,2
+Киево-Печерской лавре,Russian,locations,2
+Киево-Печерской лавры,Russian,locations,2
+Києво-Печерська,Ukrainian,locations,2
+Києво-Печерська,Ukrainian,people,2
+Києво-Печерської,Ukrainian,people,2
+Мария Захарова,Russian,people,2
+Минобороны России,Russian,organisations,2
+Andrii Sybiha,English,people,2
+Украинской православной церкви,Russian,organisations,1
+Украину,Russian,locations,1
+Українська Правда,Ukrainian,people,1
+Успенского собора,Russian,locations,1
+Успенського собору,Ukrainian,locations,1
+Успенському собору,Ukrainian,locations,1
+"Успенському собору
+URL:",Ukrainian,locations,1
+Cultura Mystetskyi Arsenal,Spanish,locations,1
+Defense Ministry,English,organisations,1
+Dnipropetrovsk,English,locations,1
+Dnipró,Spanish,people,1
+Donald Trump,Spanish,people,1
+Donbas city,English,locations,1
+Dormición de Kiev,Spanish,organisations,1
+"Dormición de Kiev
+El",Spanish,organisations,1
+Dormition Cathedral of the Kyiv Pechersk Lavra –,English,locations,1
+Drone,English,people,1
+Emmanuel Macron,English,people,1
+Epifanio,Spanish,people,1
+Europa,Spanish,locations,1
+European Commission,English,organisations,1
+European Pravda,Ukrainian,organisations,1
+Exteriores de Ucrania,Spanish,locations,1
+Farouk Chothia,English,people,1
+Gerbera,Spanish,locations,1
+Group of Seven,English,organisations,1
+Gvardíiske,Spanish,locations,1
+Handout,English,organisations,1
+Haremos,Spanish,people,1
+Iran,English,locations,1
+Iskander-K,Spanish,locations,1
+Iskander-M,Spanish,locations,1
+Italmas,Spanish,locations,1
+Jean-Noël Barrot,English,people,1
+Jean-Noël Barrot,Spanish,people,1
+Joel Guinto,English,people,1
+Kaja Kallas,English,people,1
+Klitschko,Spanish,people,1
+Komsomolskaya Pravda,Russian,organisations,1
+Kremlin,English,locations,1
+Kursk,Spanish,locations,1
+Kyiv Pechersk Lavra,English,organisations,1
+Kyiv-Pechersk Lavra,English,locations,1
+Kyiv-Pechersk Lavra,English,organisations,1
+Lavra,Spanish,locations,1
+Lean-культури,Ukrainian,people,1
+Metropolitan Epiphanius,English,locations,1
+Metropolitan Epiphanius of Kyiv,English,locations,1
+Ministerio de Defensa,Spanish,locations,1
+Ministro de Cultura,Spanish,locations,1
+Ministry of Culture,English,organisations,1
+Monasterio de Lavra de Pechersk,Spanish,people,1
+Museum Complex,English,locations,1
+Mystetskyi Arsenal,Spanish,locations,1
+Mílerovo,Spanish,locations,1
+NATO,English,organisations,1
+National Cultural,English,locations,1
+Notre Dame,English,locations,1
+Notre-Dame,Spanish,locations,1
+Nova Poshta,Spanish,locations,1
+Oleksandr Dovzhenko,English,people,1
+Oriol,Spanish,locations,1
+Parodia,Spanish,locations,1
+Patrimonio de la Humanidad,Spanish,locations,1
+Patrimonio de la Humanidad de la UNESCO,Spanish,locations,1
+Pechersk,Spanish,locations,1
+Pechersk Lavra,English,organisations,1
+Pechersk Lavra,Spanish,organisations,1
+Pechersk Lavra de Kyiv,Spanish,locations,1
+Pechersk Lavra de Kyiv,Spanish,organisations,1
+Perchersk Lavra,English,organisations,1
+Perchersk-Lavra,English,locations,1
+Poland,English,locations,1
+Primorsko-Ajtarsk,Spanish,locations,1
+RIA Novosti,Russian,organisations,1
+Reino Unido,Spanish,locations,1
+Rozetka,Ukrainian,people,1
+Russia,Ukrainian,locations,1
+Shahed,Spanish,locations,1
+State Emergency Service of Ukraine,English,organisations,1
+Sybiha,Spanish,locations,1
+T]he,English,locations,1
+Timur Tkachenko,Spanish,people,1
+Trump,English,organisations,1
+Tymur Tkachenko,English,people,1
+UN Security Council,English,organisations,1
+US-manufactured,English,locations,1
+Ukraine,Ukrainian,people,1
+Ukrainian Culture Ministry,English,organisations,1
+Ukrainska Pravda,Ukrainian,organisations,1
+United Nations’ Human Rights Monitoring Mission,English,organisations,1
+Ursula von der Leyen,English,people,1
+Vanderlande,Ukrainian,locations,1
+Vitali Klitchkó,Spanish,locations,1
+Vitali Klitschko,English,people,1
+Vitali Klitschko,Spanish,locations,1
+Vitaliy Klitschko,English,people,1
+Vladimir,English,people,1
+Vladimir Putin,Spanish,people,1
+Volodymyr Zelensky,Russian,locations,1
+Volodymyr Zelensky,Russian,people,1
+Russian-,English,locations,1
+Volodymyr Zelensky,Ukrainian,people,1
+Vólogda,Spanish,people,1
+White House,English,locations,1
+Yulia Svyrydenko,English,people,1
+Zircon,Spanish,locations,1
+air defence systems,English,organisations,1
+catedral de Santiago de Compostela,Spanish,locations,1
+catedral de la Dormición,Spanish,locations,1
+crucero,Spanish,people,1
+península ucraniana de,Spanish,locations,1
+Évian,English,locations,1
+Європейської ради,Ukrainian,locations,1
+Авраамій,Ukrainian,people,1
+Академікс,Ukrainian,organisations,1
+Александром Ходаковским,Russian,people,1
+Антоніу Кошта,Ukrainian,people,1
+Антонія,Ukrainian,people,1
+Аргументы,Russian,locations,1
+Брюсселе,Russian,locations,1
+Будинок,Ukrainian,people,1
+ВСУ,Russian,organisations,1
+Веры,Russian,people,1
+Владимира Зеленского,Russian,people,1
+Военкор Стешин,Russian,people,1
+Вооруженных сил России,Russian,organisations,1
+Всемирного наследия ЮНЕСКО,Russian,organisations,1
+Всесвітньої,Ukrainian,locations,1
+Гаазької,Ukrainian,locations,1
+Георгий Тихий,Russian,people,1
+ДСНС,Ukrainian,people,1
+Державній,Ukrainian,people,1
+Дніпрі,Ukrainian,locations,1
+Добра,Russian,people,1
+Донбассе,Russian,locations,1
+Другої,Ukrainian,people,1
+Европа,Russian,locations,1
+Европы,Russian,locations,1
+"ЖК ""Комфорт Таун",Ukrainian,organisations,1
+Жан-Ноэль Барро,Russian,people,1
+Запада,Russian,locations,1
+Западе,Russian,locations,1
+Захарова,Russian,people,1
+Захаровой,Russian,people,1
+Зеленского,Russian,people,1
+Зосима,Russian,people,1
+Зосиме,Russian,people,1
+Зосимы,Russian,people,1
+Иран,Russian,locations,1
+Киева,Russian,locations,1
+Киево-Печерская Лавра,Russian,locations,1
+Киево-Печерской,Russian,locations,1
+Киево-Печерской Лавры,Russian,locations,1
+Схиархимандриту Зосима,Russian,people,1
+Також,Ukrainian,locations,1
+Киево-Печорской Лавре,Russian,locations,1
+Киево-Печорской Лавры,Russian,locations,1
+Киевскому,Russian,locations,1
+Києва,Ukrainian,people,1
+Тафійчук,Ukrainian,locations,1
+Тетяна Шаповалова,Ukrainian,people,1
+Києво-Печерської,Ukrainian,locations,1
+Тетяни Бережної,Ukrainian,people,1
+Києво-Печерську,Ukrainian,organisations,1
+Києво-Печерській,Ukrainian,locations,1
+Києво-Печерській,Ukrainian,people,1
+Київської,Ukrainian,people,1
+Комсомольская Правда,Russian,organisations,1
+Костянтин Крайній,Ukrainian,people,1
+Крайній,Ukrainian,locations,1
+Крайній,Ukrainian,people,1
+Краткий пересказ,Russian,locations,1
+Кущника,Ukrainian,locations,1
+Лавру,Russian,locations,1
+Лавры,Russian,locations,1
+Лавры,Russian,people,1
+Лаврі,Ukrainian,locations,1
+МИД РФ,Russian,organisations,1
+МИД Украины,Russian,organisations,1
+МИД Франции,Russian,locations,1
+МОСКВА,Russian,organisations,1
+Макрон,Russian,people,1
+Тимур Ткаченко,Ukrainian,people,1
+Министерства иностранных дел Украины,Russian,organisations,1
+Угледар,Russian,locations,1
+Мистецькому арсеналі,Ukrainian,locations,1
+Національна,Ukrainian,locations,1
+Національного заповідника,Ukrainian,locations,1
+Нотр-Даму,Ukrainian,locations,1
+Олександра Довженка,Ukrainian,people,1
+Олесі Островської-Лютої,Ukrainian,locations,1
+Оптину,Russian,locations,1
+Освітнього холдингу,Ukrainian,organisations,1
+Палац,Ukrainian,locations,1
+Париж,Russian,locations,1
+Православия,Russian,people,1
+РИА Новости,Russian,organisations,1
+"РИА ИИ
+Заявление Министерства иностранных дел Украины",Russian,organisations,1
+Радіо Культура,Ukrainian,locations,1
+Раніше,Ukrainian,people,1
+России,Russian,locations,1
+Руси,Russian,locations,1
+Руси - «Заповедник»,Russian,locations,1
+СБУ,Russian,organisations,1
+СБУ,Ukrainian,organisations,1
+США,Russian,locations,1
+Свято-Успенскую Николо-Васильевскую обитель,Russian,locations,1
+Севастополя,Russian,locations,1
+Слово,Russian,people,1
+Сокур,Russian,people,1
+Софії Київської,Ukrainian,people,1
+Старого Арсеналу,Ukrainian,locations,1
+Суми,Ukrainian,locations,1
+"Успенському собору
+Російський удар",Ukrainian,locations,1
+Факты,Russian,locations,1
+Феодосія,Ukrainian,people,1
+Феодосія Печерських,Ukrainian,people,1
+Франции,Russian,locations,1
+Франції Жан-Ноель Барро,Ukrainian,people,1
+"Х.
+Кошта",Ukrainian,people,1
+Шахед,Ukrainian,organisations,1
+Эмманюэль Макрон,Russian,people,1
+Юлія Свириденко,Ukrainian,people,1
+богослужбові предмети,Ukrainian,people,1
+друзям,Ukrainian,people,1
+масовану комбіновану атаку на Київ,Ukrainian,people,1
+мати щастя,Ukrainian,people,1
+які від,Ukrainian,people,1
+які живі,Ukrainian,people,1
+11th Century Dormition Cathedral,English,organisations,1
+Administración Militar de la Ciudad de Kyiv,Spanish,organisations,1
+Удар,Russian,locations,1
+Andrii Sybiha,Spanish,people,1
+Argumenty I Fakty,Russian,people,1
+Art Arsenal,English,locations,1
+Bakhmut,English,locations,1
+Banderol,Spanish,organisations,1
+Briansk,Spanish,locations,1
+CNN,English,organisations,1
+"Catedral de la Dormición
+El",Spanish,locations,1
+Catedral de la Dormición del Monasterio de las Cuevas de Kiev,Spanish,locations,1
+Chauda,Spanish,locations,1
+Complejo del Museo Nacional de Arte,Spanish,locations,1
+Crimea,Spanish,locations,1
+Cuevas,Spanish,locations,1
