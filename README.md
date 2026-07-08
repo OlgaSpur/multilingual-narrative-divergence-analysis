@@ -85,7 +85,6 @@ multilingual-narrative-divergence-analysis/
 │
 ├── DATA/
 │   ├── articles_dataset.csv
-│   ├── cleaned_entities_dataset.csv
 │   ├── divergence_matrix.csv
 │   ├── entities_dataset.csv
 │   ├── entity_frequency_by_language.csv
@@ -106,7 +105,6 @@ multilingual-narrative-divergence-analysis/
 │   ├── entity_normalisation.py
 │   ├── final_entity_cleaning.py
 │   ├── final_entity_merge.py
-│   ├── narrative_divergence_analysis.py
 │   └── read_articles.py
 │
 ├── VISUALS/
