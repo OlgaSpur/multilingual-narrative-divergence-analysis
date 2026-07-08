@@ -2,6 +2,12 @@
 
 A multilingual NLP project analysing narrative divergence across English, Spanish, Russian and Ukrainian media coverage of the 15 June 2026 attack on the Kyiv-Pechersk Lavra using qualitative annotation, entity extraction and comparative quantitative analysis.
 
+## Repository Status
+
+This project represents the first stage of a broader multilingual narrative analysis framework.
+
+Future iterations will expand the dataset, incorporate dependency parsing, and explore transformer-based multilingual NLP methods.
+
 ## Project Overview
 
 This project explores multilingual narrative divergence across English, Spanish, Russian, and Ukrainian media sources.
@@ -57,63 +63,60 @@ Sources were selected from reputable news outlets to ensure consistency across l
 
 ## Project Structure
 
+```text
 multilingual-narrative-divergence-analysis/
-├──ARTICLES/
-    ├── English
-        ├── EN1 BBC.docx
-        ├── EN2 CNN.docx
-        └── EN3 The Guardian.docx
-    ├── Russian
-        ├── RU1 Argumenty i Fakty.docx
-        ├── RU2 Komsomolskaya Pravda.docx
-        └── RU3 RIA Novosti.docx
-    ├── Spanish
-        ├── ES1 ABC.docx
-        ├── ES2 El Mundo.docx
-        └── ES3 UNITED24 Media.docx
-    ├── Ukrainian
-        ├── UA1 European Pravda.docx
-        ├── UA2 Suspilne.docx
-        └── UA3 Ukrainska Pravda.docx
-
-├── DATA/ 
-    ├── articles_dataset.csv
-    ├── cleaned_entities_dataset.csv
-    ├── divergence_matrix.csv
-    ├── entities_dataset.csv
-    ├── entity_frequency_by_language.csv
-    ├── final_entity_matrix.csv
-    ├── narrative_divergence_scores.csv
-    └── normalised_entity_frequency.cxv
-
+├── ARTICLES/
+│   ├── English/
+│   │   ├── EN1 BBC.docx
+│   │   ├── EN2 CNN.docx
+│   │   └── EN3 The Guardian.docx
+│   ├── Spanish/
+│   │   ├── ES1 ABC.docx
+│   │   ├── ES2 El Mundo.docx
+│   │   └── ES3 UNITED24 Media.docx
+│   ├── Russian/
+│   │   ├── RU1 Argumenty i Fakty.docx
+│   │   ├── RU2 Komsomolskaya Pravda.docx
+│   │   └── RU3 RIA Novosti.docx
+│   └── Ukrainian/
+│       ├── UA1 European Pravda.docx
+│       ├── UA2 Suspilne.docx
+│       └── UA3 Ukrainska Pravda.docx
+│
+├── DATA/
+│   ├── articles_dataset.csv
+│   ├── cleaned_entities_dataset.csv
+│   ├── divergence_matrix.csv
+│   ├── entities_dataset.csv
+│   ├── entity_frequency_by_language.csv
+│   ├── final_entity_matrix.csv
+│   ├── narrative_divergence_scores.csv
+│   └── normalised_entity_frequency.csv
+│
 ├── RESULTS/
-    └── findings.md
-
+│   └── findings.md
+│
 ├── SCRIPT/
-    ├── calculate_narrative_divergence.py
-    ├── check_articles.py
-    ├── clean_entities.py
-    ├── create_visualisations.py
-    ├── divergence_matrix.py
-    ├── entity_extraction.py
-    ├── entity_frquency.py
-    ├── entity_normalisation.py
-    ├── final_entity_cleaning.py
-    ├── final_entity_merge.py
-    ├── narrative_divergence_analysis.py
-    ├── read_articles.py
-    ├──test.py
-    └── view_top_entities.py
+│   ├── calculate_narrative_divergence.py
+│   ├── clean_entities.py
+│   ├── create_visualisations.py
+│   ├── divergence_matrix.py
+│   ├── entity_extraction.py
+│   ├── entity_frequency.py
+│   ├── entity_normalisation.py
+│   ├── final_entity_cleaning.py
+│   ├── final_entity_merge.py
+│   ├── narrative_divergence_analysis.py
+│   └── read_articles.py
 │
 ├── VISUALS/
 │   ├── language_entity_heatmap.png
 │   └── top_divergence_entities.png
 │
 ├── .gitignore
-│
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
@@ -124,9 +127,10 @@ multilingual-narrative-divergence-analysis/
 - NumPy
 - Matplotlib
 - pathlib
-- VS Code
-- PowerShell
-- CSV-based multilingual datasets
+- Git
+- GitHub
+- Visual Studio Code
+- PowerShel
 
 ---
 
@@ -221,12 +225,19 @@ Visualisations were generated using Python-based plotting tools.
 
 ## Visualisations
 
-The following visualisations were generated to support comparative analysis:
+### Language Entity Heatmap
 
-- **Language Entity Heatmap** — shows the distribution of named entities across languages to compare narrative focus across language groups.
-- **Top Narrative Divergence Entities** — highlights entities with the highest variation in mention frequency across language sources.
+Shows the distribution of named entities across languages, enabling comparison of narrative focus across language groups.
 
-Visualisations are primarily descriptive rather than predictive.
+![Language Entity Heatmap](VISUALS/language_entity_heatmap.png)
+
+### Top Narrative Divergence Entities
+
+Highlights the entities with the greatest variation in mention frequency across the four language groups.
+
+![Top Narrative Divergence Entities](VISUALS/top_divergence_entities.png)
+
+The visualisations are descriptive and are intended to support comparative narrative analysis rather than predictive modelling.
 
 ---
 

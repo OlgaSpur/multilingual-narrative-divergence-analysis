@@ -20,3 +20,14 @@ RESEARCH NOTES/
 
 # Word temporary files
 ~$*
+
+# Development scripts
+SCRIPT/test.py
+SCRIPT/check_articles.py
+SCRIPT/view_top_entities.py
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
