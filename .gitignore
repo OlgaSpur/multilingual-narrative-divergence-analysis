@@ -31,3 +31,5 @@ SCRIPT/view_top_entities.py
 
 # Logs
 *.log
+
+~$*.xlsx
