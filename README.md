@@ -57,24 +57,63 @@ Sources were selected from reputable news outlets to ensure consistency across l
 
 ## Project Structure
 
-```text
-DATA/
-    Raw and processed datasets used throughout the analysis.
+multilingual-narrative-divergence-analysis/
+├──ARTICLES/
+    ├── English
+        ├── EN1 BBC.docx
+        ├── EN2 CNN.docx
+        └── EN3 The Guardian.docx
+    ├── Russian
+        ├── RU1 Argumenty i Fakty.docx
+        ├── RU2 Komsomolskaya Pravda.docx
+        └── RU3 RIA Novosti.docx
+    ├── Spanish
+        ├── ES1 ABC.docx
+        ├── ES2 El Mundo.docx
+        └── ES3 UNITED24 Media.docx
+    ├── Ukrainian
+        ├── UA1 European Pravda.docx
+        ├── UA2 Suspilne.docx
+        └── UA3 Ukrainska Pravda.docx
 
-SCRIPT/
-    Python scripts for preprocessing, entity extraction,
-    aggregation and visualisation.
+├── DATA/ 
+    ├── articles_dataset.csv
+    ├── cleaned_entities_dataset.csv
+    ├── divergence_matrix.csv
+    ├── entities_dataset.csv
+    ├── entity_frequency_by_language.csv
+    ├── final_entity_matrix.csv
+    ├── narrative_divergence_scores.csv
+    └── normalised_entity_frequency.cxv
 
-VISUALS/
-    Generated figures illustrating multilingual entity
-    distributions and narrative divergence.
+├── RESULTS/
+    └── findings.md
 
-RESULTS/
-    Summary findings and analytical outputs.
+├── SCRIPT/
+    ├── calculate_narrative_divergence.py
+    ├── check_articles.py
+    ├── clean_entities.py
+    ├── create_visualisations.py
+    ├── divergence_matrix.py
+    ├── entity_extraction.py
+    ├── entity_frquency.py
+    ├── entity_normalisation.py
+    ├── final_entity_cleaning.py
+    ├── final_entity_merge.py
+    ├── narrative_divergence_analysis.py
+    ├── read_articles.py
+    ├──test.py
+    └── view_top_entities.py
+│
+├── VISUALS/
+│   ├── language_entity_heatmap.png
+│   └── top_divergence_entities.png
+│
+├── .gitignore
+│
+├── README.md
+└── requirements.txt
 
-README.md
-    Project documentation.
-```
 
 ---
 

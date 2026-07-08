@@ -8,3 +8,15 @@ env/
 
 .DS_Store
 Thumbs.db
+# Personal working documents
+Framework.xlsx
+Readme.docx
+PROJECT UPDATES.docx
+Multilingual Narrative Divergence Analysis steps.docx
+Sources.docx
+
+# Research notes
+RESEARCH NOTES/
+
+# Word temporary files
+~$*
